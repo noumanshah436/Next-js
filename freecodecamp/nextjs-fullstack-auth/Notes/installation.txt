@@ -1,0 +1,6 @@
+https://nextjs.org/docs/getting-started/installation
+
+npx create-next-app@latest .
+
+
+npm i axios bcryptjs jsonwebtoken nodemailer react-hot-toast mongoose

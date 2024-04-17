@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=ZVnjOPwW4ZA
+
+22:00
+
+All the components in the app folder are the server somponents by-default.
+
+Pages router doesn't support server components
+
+A folder in app is not accessible unless we have page file inside it.
+
+
+**********************
+'use client';
+
+with this we tell the nextjs compiler to include this file or component in our javascript bundle and
+that means if this component is dependent on other components, those components will automatically become
+client components and will be included in our javascript bundle,
+so we don't need to repeat this directive on every component.
+
+To make our application more faster and SEO friendly, we want to render our components on server as much as possible and
+use client components only when necessary.
+
+**********************
