@@ -1,0 +1,9 @@
+
+Mastering Next.js 14: A Comprehensive Guide to the Latest Features and Advanced Concepts!
+
+ 
+https://www.youtube.com/watch?v=GowPe3iiqTs&t=3880s
+
+1:04:55
+server vs client compopnents
+

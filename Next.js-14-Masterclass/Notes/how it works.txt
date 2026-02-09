@@ -1,0 +1,3 @@
+Copy the code of each tutorail and replace it with the folders inside my-app project.
+
+Need to replace app or components folders. 

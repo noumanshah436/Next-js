@@ -1,0 +1,2 @@
+To skip some folder from routing, we just need to wrap that folder name with (), 
+Nested route will now be accessed driectly like login AND register.

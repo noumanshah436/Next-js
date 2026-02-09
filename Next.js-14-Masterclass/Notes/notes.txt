@@ -1,0 +1,27 @@
+
+ 
+
+******************************
+
+create nextJS project:
+$ npx create-next-app@latest 
+
+> give project name
+> accept all default values
+
+
+Run project:
+$ npm run dev
+
+
+******************************
+
+
+npx next telemetry disable
+
+
+*****************************
+
+next docs:
+
+https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app

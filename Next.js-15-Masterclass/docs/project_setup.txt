@@ -1,0 +1,4 @@
+https://nextjs.org/docs/app/getting-started/installation
+
+
+npx create-next-app@latest my-app

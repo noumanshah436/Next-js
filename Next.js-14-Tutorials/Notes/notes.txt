@@ -1,0 +1,20 @@
+
+
+Next.js 14 Tutorial
+
+https://www.youtube.com/watch?v=kVddMV-TrSw&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI&index=2
+
+
+
+******************************
+
+npx create-next-app@latest 
+
+> give project name
+> accept all default values
+
+******************************
+
+
+npx next telemetry disable
+
