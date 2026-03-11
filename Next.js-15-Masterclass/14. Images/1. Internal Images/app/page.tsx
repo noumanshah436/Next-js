@@ -1,5 +1,6 @@
 import Image from "next/image";
-import NatureImage from "../../public/florian-van-duyn.jpg";
+// import NatureImage from "../../public/florian-van-duyn.jpg";
+import NatureImage from "@/public/florian-van-duyn.jpg";
 
 const Home = () => {
   return (

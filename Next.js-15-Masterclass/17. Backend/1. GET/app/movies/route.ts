@@ -7,3 +7,5 @@ import { movies } from "./db";
 export async function GET() {
   return Response.json(movies);
 }
+
+// http://localhost:3000/movies
